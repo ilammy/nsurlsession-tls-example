@@ -1,0 +1,6 @@
+# Xcode crap
+DerivedData
+xcuserdata
+
+# macOS crap
+.DS_Store
